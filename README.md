@@ -5,5 +5,9 @@ I participate in [MegaK](https://www.megak.pl/) course because I want to develop
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- Express.js
+- React
+
 ###  📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/katarzyna-kajzer/)
