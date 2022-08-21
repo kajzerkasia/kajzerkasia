@@ -8,6 +8,7 @@ I participate in [MegaK](https://www.megak.pl/) course because I want to develop
 - Node.js
 - Express.js
 - React
+- TypeScript
 
 ###  📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/katarzyna-kajzer/)
