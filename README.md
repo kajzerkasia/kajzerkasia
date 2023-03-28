@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-I am learning programming over a year and slowly thinking about starting a career in IT. 
+I am learning programming over a year and want to start a career in IT. 
 Currently working on a project in React + Typescript + Node.js + Express.js + SQL (private repository for now).
 
 ###  💻 What tech stack I'm currently working with
