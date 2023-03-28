@@ -1,6 +1,8 @@
 ###  Hi there 👋
-I've started to learn programming recently and now this is my real passion!<br/>
-I participate in [MegaK](https://www.megak.pl/) course because I want to develop my skills.
+
+I am learning programming over a year and slowly thinking about starting a career in IT. 
+Currently working on a project in React + Typescript + Node.js + Express.js + SQL (private repository for now).
+
 ###  💻 What tech stack I'm currently working with
 - HTML
 - CSS
