@@ -15,4 +15,4 @@ Currently working on a project in React + Typescript + Node.js + Express.js + SQ
 ![Git](https://img.shields.io/badge/git%20-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red)
 
 ###  📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/katarzyna-kajzer/)
+[<img src="https://img.shields.io/badge/linked%20in-%23404d59.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/katarzyna-kajzer/)
