@@ -4,7 +4,7 @@
 
 #### ✨ Check out my new project - "Gym Trainig Planner" ✨
 
-https://github.com/kajzerkasia/GYMtrainingPlannerFront
+https://github.com/kajzerkasia/GYMtrainingPlannerFront  
 https://github.com/kajzerkasia/GYMtrainingPlannerBack
 
 ###  💻 What tech stack I'm currently working with
