@@ -1,7 +1,11 @@
 ###  Hi there 👋
 
-I am learning programming over a year and want to start a career in IT. 
-Currently working on a project in React + Typescript + Node.js + Express.js + SQL (private repository for now).
+#### I am learning programming over a year and want to start a career in IT. 
+
+#### ✨ Check out my new project - "Gym Trainig Planner" ✨
+
+https://github.com/kajzerkasia/GYMtrainingPlannerFront
+https://github.com/kajzerkasia/GYMtrainingPlannerBack
 
 ###  💻 What tech stack I'm currently working with
 ![react](https://img.shields.io/badge/react%20-%23404d59.svg?logo=react&style=for-the-badge&logoColor=cyan)
