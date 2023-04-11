@@ -1,8 +1,8 @@
 ###  Hi there 👋
 
-#### I am learning programming over a year and want to start a career in IT. 
+### I am learning programming over a year and want to start a career in IT. 
 
-#### ✨ Check out my new project - "Gym Trainig Planner" ✨
+### ✨ Check out my new project - "Gym Trainig Planner" ✨
 
 https://github.com/kajzerkasia/GYMtrainingPlannerFront  
 https://github.com/kajzerkasia/GYMtrainingPlannerBack
