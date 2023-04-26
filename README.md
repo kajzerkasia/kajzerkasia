@@ -2,6 +2,10 @@
 
 ### I am learning programming over a year and want to start a career in IT. 
 
+### Currently working in a group at "MegaK Head Hunter" (private repository)
+
+##### The application allows you to easily connect people from HR departments of companies, including Headhunters [HR], with people looking for a job in IT.
+
 ### ✨ Check out my new project - "Gym Trainig Planner" ✨
 
 https://github.com/kajzerkasia/GYMtrainingPlannerFront  
