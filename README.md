@@ -2,7 +2,7 @@
 
 ### I am learning programming over a year and want to start a career in IT. 
 
-### Currently working in a group on the project "MegaK Head Hunter" (private repository)
+### Currently working in a group on the project "MegaK Head Hunter" *(private repository)*
 
 ##### The application allows you to easily connect people from HR departments of companies, including Headhunters [HR], with people looking for a job in IT.
 
