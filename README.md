@@ -6,7 +6,7 @@
 
 ##### The application allows you to easily connect people from HR departments of companies, including Headhunters [HR], with people looking for a job in IT.
 
-https://github.com/xyashino/MegaK-Head-Hunter-Front
+https://github.com/xyashino/MegaK-Head-Hunter-Front   
 https://github.com/xyashino/MegaK-Head-Hunter-Back
 
 ### ✨ Check out my new project - "Gym Trainig Planner" ✨
