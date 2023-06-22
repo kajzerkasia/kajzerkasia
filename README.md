@@ -13,6 +13,8 @@ https://github.com/xyashino/MegaK-Head-Hunter-Back
 
 ### ✨ Check out my project - "Gym Trainig Planner" ✨
 
+##### Gym workout management app.
+
 https://github.com/kajzerkasia/GYMtrainingPlannerFront  
 https://github.com/kajzerkasia/GYMtrainingPlannerBack
 
