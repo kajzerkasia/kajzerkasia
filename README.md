@@ -11,7 +11,7 @@ https://megak.yashino.live
 https://github.com/xyashino/MegaK-Head-Hunter-Front   
 https://github.com/xyashino/MegaK-Head-Hunter-Back
 
-### ✨ Check out my project - "Gym Trainig Planner" ✨
+### ✨ Check out my project - "Gym Training Planner" ✨
 
 ##### Gym workout management app.
 
