@@ -2,6 +2,15 @@
 
 ### I am learning programming over a year and want to start a career in IT. 
 
+### ✨ Check out my new project - "Streamer Spotlight App" ✨
+
+##### Simple streamer spotlight application
+
+[![Watch the video]](https://youtu.be/pJa3ivuAMmg)
+
+https://github.com/kajzerkasia/StreamerSpotlightFrontend
+https://github.com/kajzerkasia/StreamerSpotlightBackend
+
 ### ✨ Check out my group project "MegaK Head Hunter" ✨
 
 ##### The application allows you to easily connect people from HR departments of companies, including Headhunters [HR], with people looking for a job in IT.
