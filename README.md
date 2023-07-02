@@ -8,7 +8,7 @@
 
 [![Watch the video]](https://youtu.be/pJa3ivuAMmg)
 
-https://github.com/kajzerkasia/StreamerSpotlightFrontend
+https://github.com/kajzerkasia/StreamerSpotlightFrontend                     
 https://github.com/kajzerkasia/StreamerSpotlightBackend
 
 ### ✨ Check out my group project "MegaK Head Hunter" ✨
