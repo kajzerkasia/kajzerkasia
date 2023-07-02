@@ -6,7 +6,7 @@
 
 ##### Simple streamer spotlight application
 
-[![Watch the video]](https://youtu.be/pJa3ivuAMmg)
+[[Video - youtube]](https://youtu.be/pJa3ivuAMmg)
 
 https://github.com/kajzerkasia/StreamerSpotlightFrontend                     
 https://github.com/kajzerkasia/StreamerSpotlightBackend
