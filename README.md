@@ -30,6 +30,8 @@ https://github.com/xyashino/MegaK-Head-Hunter-Back
 
 ##### Gym workout management app.
 
+https://kk.networkmanager.pl/
+
 https://github.com/kajzerkasia/GYMtrainingPlannerFront  
 https://github.com/kajzerkasia/GYMtrainingPlannerBack
 
