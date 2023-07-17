@@ -5,6 +5,9 @@
 ### I completed a "MegaK" programming course.
 #### https://www.megak.pl/
 
+### What's next?
+#### I'm starting the AI course in September 🤖
+
 #### MegaK - my course grades:
 ![MegaK - my course grades](https://scontent-fra3-1.xx.fbcdn.net/v/t1.15752-9/354074521_227057563538811_5081428768276882738_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dNHIa-1TbC0AX99hXWP&_nc_ht=scontent-fra3-1.xx&oh=03_AdSzM8WYvAuCq-TMHANwCeGYQeOpygevZR6SAXTDFmp3lw&oe=64C92AF2)
 
