@@ -40,6 +40,7 @@ https://github.com/kajzerkasia/GYMtrainingPlannerBack
 ###  💻 What tech stack I'm currently working with
 ![react](https://img.shields.io/badge/react%20-%23404d59.svg?logo=react&style=for-the-badge&logoColor=cyan)
 ![typescript](https://img.shields.io/badge/typescript%20-%23404d59.svg?logo=typescript&style=for-the-badge&logoColor=blue)
+![javascript](https://img.shields.io/badge/javascript%20-%23404d59.svg?logo=javascript&style=for-the-badge&logoColor=yellow)
 ![node.js](https://img.shields.io/badge/node.js%20-%23404d59.svg?logo=node.js&style=for-the-badge&logoColor=green)
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![CSS](https://img.shields.io/badge/CSS%20-%23404d59.svg?&style=for-the-badge&logo=css3&logoColor=blue)
