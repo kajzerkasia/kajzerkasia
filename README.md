@@ -10,6 +10,7 @@
 
 ### What's next?
 ### I'm starting the AI course in September 🤖
+#### https://mistrz.ai/
 
 ### ✨ Check out my new project - "Streamer Spotlight App" ✨
 
