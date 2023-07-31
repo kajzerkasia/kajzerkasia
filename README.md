@@ -2,6 +2,11 @@
 
 ### I am learning programming almost 2 years and want to start a career in IT. 
 
+### Currently in free time developing my project - Gym workout management app 📈
+
+https://github.com/kajzerkasia/GYMtrainingPlannerFront  
+https://github.com/kajzerkasia/GYMtrainingPlannerBack
+
 ### I completed a "MegaK" programming course.
 #### https://www.megak.pl/
 
