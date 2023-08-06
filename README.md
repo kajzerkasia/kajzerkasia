@@ -4,6 +4,8 @@
 
 ### Currently in free time developing my project "Gym Training Planner" - gym workout management app 📈
 
+## ▶️🎥 [[Video - youtube]](https://www.youtube.com/watch?v=bYCs57uR3gE) 🎥▶️
+
 https://github.com/kajzerkasia/GYMtrainingPlannerFront  
 https://github.com/kajzerkasia/GYMtrainingPlannerBack
 
