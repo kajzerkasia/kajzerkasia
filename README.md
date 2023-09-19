@@ -8,7 +8,7 @@
 ![image](https://github.com/kajzerkasia/kajzerkasia/assets/105164215/28830fb2-adb6-4d27-89f4-0b0c18a5c827)
 
 ### What's next?
-### I'm starting the AI course in September 2023 🤖
+### I started the AI course in September 2023 and I'm on it 🤖
 #### https://mistrz.ai/
 
 ###  💻 What tech stack I'm currently working with
