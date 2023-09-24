@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-### I am learning programming almost 2 years and want to start a career in IT. 
+### I have been learning programming for 2 years and I want to start a career in IT.
 
 ### I completed a "MegaK" programming course.
 #### https://www.megak.pl/
