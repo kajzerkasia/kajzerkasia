@@ -1,16 +1,5 @@
 ###  Hi there 👋
 
-### I have been learning programming for 2 years and I want to start a career in IT.
-
-### I completed a "MegaK" programming course.
-#### https://www.megak.pl/
-
-![image](https://github.com/kajzerkasia/kajzerkasia/assets/105164215/28830fb2-adb6-4d27-89f4-0b0c18a5c827)
-
-### What's next?
-### I started the AI course in September 2023 and I'm on it 🤖
-#### https://mistrz.ai/
-
 ###  💻 What tech stack I'm currently working with
 ![HTML](https://img.shields.io/badge/html%20-%23404d59.svg?&style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS%20-%23404d59.svg?&style=for-the-badge&logo=css3&logoColor=blue)
@@ -28,7 +17,11 @@
 ###  📫 How to reach me
 [<img src="https://img.shields.io/badge/linked%20in-%23404d59.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/katarzyna-kajzer/)
 
-### Currently in free time developing my project "Gym Training Planner" - gym workout management app 📈
+### Currently in free time developing my new project "Gym Training Planner (Remastered)" - gym workout management app 📈
+
+https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
+
+## My projects:
 
 ### ▶️🎥 [[Gym Training Planner - video]](https://www.youtube.com/watch?v=bYCs57uR3gE) 🎥▶️
 
