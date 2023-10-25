@@ -23,11 +23,6 @@ https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
 
 ## My projects:
 
-### ▶️🎥 [[Gym Training Planner - video]](https://www.youtube.com/watch?v=bYCs57uR3gE) 🎥▶️
-
-https://github.com/kajzerkasia/GYMtrainingPlannerFront  
-https://github.com/kajzerkasia/GYMtrainingPlannerBack
-
 ### ✨ Check out my new project - "GiardDesign Website" ✨
 
 https://kajzerkasia.github.io/GiardDesign/
@@ -53,6 +48,8 @@ https://github.com/xyashino/MegaK-Head-Hunter-Front
 https://github.com/xyashino/MegaK-Head-Hunter-Back
 
 ### ✨ Check out my project - "Gym Training Planner" ✨
+
+### ▶️🎥 [[Gym Training Planner - video]](https://www.youtube.com/watch?v=bYCs57uR3gE) 🎥▶️
 
 ##### Gym workout management app.
 
