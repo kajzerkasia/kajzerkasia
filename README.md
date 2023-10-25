@@ -23,7 +23,7 @@ https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
 
 ## My projects:
 
-### ✨ Check out my new project - "GiardDesign Website" ✨
+### ✨ Check out my project - "GiardDesign Website" ✨
 
 https://kajzerkasia.github.io/GiardDesign/
 
