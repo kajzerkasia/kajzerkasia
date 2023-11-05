@@ -21,6 +21,10 @@
 
 https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
 
+### and also developing project from React course "Project Management App":
+
+https://github.com/kajzerkasia/projectManagementApp
+
 ## My projects:
 
 ### ✨ "GiardDesign Website" ✨
