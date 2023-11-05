@@ -22,6 +22,7 @@
 https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
 
 ### and also developing project from React course "Project Management App":
+I write the entire React + Tailwind CSS code from scratch (only the project idea and its appearance are from the course)
 
 https://github.com/kajzerkasia/projectManagementApp
 
