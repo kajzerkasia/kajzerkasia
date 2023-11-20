@@ -19,7 +19,7 @@
 ###  📫 How to reach me
 [<img src="https://img.shields.io/badge/linked%20in-%23404d59.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/katarzyna-kajzer/)
 
-### Currently in free time developing my new project "Gym Training Planner (Remastered)" - gym workout management app 📈
+### In free time developing my new project "Gym Training Planner (Remastered)" - gym workout management app 📈
 
 https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
 
