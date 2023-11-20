@@ -1,6 +1,8 @@
 ###  Hi there 👋
 
-###  💻 What tech stack I'm currently working with
+### Currently, I'm learning React from scratch again to thoroughly understand all the concepts 💪
+
+###  💻 What tech stack I'm working with
 ![HTML](https://img.shields.io/badge/html%20-%23404d59.svg?&style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS%20-%23404d59.svg?&style=for-the-badge&logo=css3&logoColor=blue)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20-%23404d59.svg?&style=for-the-badge&logo=tailwindcss&logoColor=aqua)
