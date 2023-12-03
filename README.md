@@ -19,15 +19,6 @@
 ###  📫 How to reach me
 [<img src="https://img.shields.io/badge/linked%20in-%23404d59.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/katarzyna-kajzer/)
 
-### In free time developing my new project "Gym Training Planner (Remastered)" - gym workout management app 📈
-
-https://github.com/kajzerkasia/GymTrainingPlannerRemasteredFront
-
-### and also developing project from React course "Project Management App":
-I write the entire React + Tailwind CSS code from scratch (only the project idea and its appearance are from the course)
-
-https://github.com/kajzerkasia/projectManagementApp
-
 ## My projects:
 
 ### ✨ "GiardDesign Website" ✨
