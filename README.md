@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-### Currently, I'm learning React from scratch again to thoroughly understand all the concepts 💪
+### I'm currently focusing on learning React to thoroughly understand all the concepts 💪
 
 ###  💻 What tech stack I'm working with
 ![HTML](https://img.shields.io/badge/html%20-%23404d59.svg?&style=for-the-badge&logo=html5&logoColor=orange)
