@@ -23,8 +23,6 @@
 
 ### ✨ "Gym Training Planner" ✨
 
-### ▶️🎥 [[Gym Training Planner - video]](https://www.youtube.com/watch?v=bYCs57uR3gE) 🎥▶️
-
 ##### Gym workout management app.
 
 https://github.com/kajzerkasia/GYMtrainingPlannerFront  
