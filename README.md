@@ -1,6 +1,7 @@
 ###  Hi there 👋
 
 ### I'm currently focusing on learning React to thoroughly understand all the concepts 💪
+### And also learning Next.js 
 
 ###  💻 What tech stack I'm working with
 ![HTML](https://img.shields.io/badge/html%20-%23404d59.svg?&style=for-the-badge&logo=html5&logoColor=orange)
